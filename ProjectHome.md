@@ -1,0 +1,1 @@
+Use the output the input event device to drive the mouse, keyboard, etc of another.
